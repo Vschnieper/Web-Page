@@ -1,6 +1,6 @@
 ---
 title: "CREATING CONTRASTS"
-date: 2020-07-02
+date: 2020-07-04
 background: "/images/bg.jpg"
 logo: "gem"
 ---
