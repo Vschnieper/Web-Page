@@ -1,5 +1,5 @@
 ---
-title: "You are"
+title: "VERTICAL HOTSPOT"
 date: 2020-07-02
 background: "/images/bg.jpg"
 logo: "gem"
