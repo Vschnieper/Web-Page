@@ -1,4 +1,3 @@
 baseURL = "https://www.vschnieper.com/"
 languageCode = "en-us"
 title = "My Portfolio"
-theme = "dimension"
