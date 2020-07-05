@@ -1,5 +1,5 @@
 ---
 title: Victor Schnieper
 description: I like arch
-background: "images/bg.jpg"
+background: "images/bg2.jpg"
 ---
