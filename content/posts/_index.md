@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
-description: "A collection of stuff"
+title: "Projects"
+description: "A collection of academic projects"
 icon: "flag"
 ---
