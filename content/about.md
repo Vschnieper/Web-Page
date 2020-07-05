@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-## Text
+## TITLE
 
 Some example text
 

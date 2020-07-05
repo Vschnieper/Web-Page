@@ -2,7 +2,7 @@
 title: PORTFOLIO
 ---
 
-## Table of contents
+## PROJECTS
 
 - [Table of contents](#table-of-contents)
 - [Text](#text)
