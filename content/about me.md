@@ -2,44 +2,6 @@
 title: "About me"
 date: 2020/06/28
 ---
+# Víctor de la Plaza Schnieper
 
-## TITLE
-
-Some example text
-
-I am Victor
-
-## Code
-
-### Python
-
-```python
-def foo():
-    print ("This is a python function")
-```
-
-### C/C++
-
-```C
-void foo(){
-    prinf("%s\n", "This is a C function")
-}
-```
-
-### Bash
-
-```bash
-# This is a bash command
-cd dir && echo $PWD;
-
-# Return
-exit 0;
-```
-
-## Tables
-
-| Pages | Elements |
-| ----- | -------- |
-| 1     | Text     |
-| 2     | Code     |
-| 3     | Tables   |
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
