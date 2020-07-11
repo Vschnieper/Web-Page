@@ -1,7 +1,7 @@
 ---
 title: "About me"
-date: 2020/06/28
+date: 2020-05-01
 ---
-# Víctor de la Plaza Schnieper
+## Víctor de la Plaza Schnieper
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a young architect, graphic designer and 3D artist living in Madrid. I love photography, artistic drawing and travelling. I consider myself a geek of development of new technologies and computers.  I am a fast learner, a very curious and self-taught person who loves to gain experience every day. 

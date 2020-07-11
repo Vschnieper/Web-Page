@@ -1,6 +1,6 @@
 ---
 title: CURRICULUM VITAE
-date: 2020/07/04
+date: 2020-07-01
 ---
 
 ## PORTFOLIO (PDF)

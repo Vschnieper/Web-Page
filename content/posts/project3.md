@@ -1,35 +1,12 @@
 ---
-title: "CREATING CONTRASTS"
-date: 2020-07-04
+title: "GODOY - X"
+date: 2018-12-17
 background: "/images/bg.jpg"
-logo: "gem"
 ---
 
+The small city of Godoy Cruz, which belongs to the province of Mendoza (Argentina), is characterized by its low altitude, in contrast with the great mountain range of the Andes, and its enormous peak, the Aconcagua, next to which it is located.
 
-# Hello
-
-
-Hello
-
-## Subtitle
-
-
-### Sub-sub title
-
-Normal **negrita** y también *cursiva*
-
-Funciona el _subrayado_?
-
-Creo que no.
+A residential project is proposed as an analogy to the mountain and river landscape, which is why this area stands out so much. A great cross is designed in which the houses at different heights will simulate the mountain range, and a linear fluvial park will join the lower public pedestrian areas simulating the rivers of Argentina.
 
 > Una cita so cool
 > De varias líneas
-
-```
-codigo
-
-more cool
-```
-
-
-![](https://static.vecteezy.com/system/resources/previews/000/134/435/original/free-wushu-vector.jpg)
