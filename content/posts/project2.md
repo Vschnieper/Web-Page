@@ -9,6 +9,3 @@ In contrast to the traditional architecture of Nagele, the orthogonality of its 
 By creating slopes next to the village called "petals", a series of vegetation covers will be formed under which a new residential project will appear. 
 
 The compositional, constructive and structural design of these large coverings, as well as of the house itself, will be based on a hierarchical development in which the king will be the vertical structure.
-
-> Una cita so cool
-> De varias líneas
