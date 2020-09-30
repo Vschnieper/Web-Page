@@ -8,7 +8,7 @@ date: 2020-07-01
 
 *Google Drive* | *Issuu*
 ------------ | ---------
-[V SCHNIEPER - ARCHITECT CV.pdf](https://drive.google.com/file/d/1aHHpGM575iLetEQ3aVvNZYlWk3lTLWaM/view?usp=sharing) | [Víctor P. Schnieper Curriculum Vitae](https://issuu.com/vschnieper/docs/v_schnieper_-_architect_cv_-__2020_)
+[V SCHNIEPER - ARCHITECT CV.pdf](https://drive.google.com/file/d/1RfBSmU4194iZ4ZaWDzn7Su6jP63cn3a6/view?usp=sharing) | [Víctor P. Schnieper Curriculum Vitae](https://issuu.com/home/published/v_schnieper_-_architect_cv_-__2020_)
 
 # PORTFOLIO
 *Google Drive* | *Issuu*
