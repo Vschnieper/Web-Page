@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schnieper on My Portfolio</title>
+    <link>https://www.vschnieper.com/</link>
+    <description>Recent content in Schnieper on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.vschnieper.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DOCUMENTS</title>
+      <link>https://www.vschnieper.com/portfolio/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/portfolio/</guid>
+      <description>CURRICULUM VITAE    Google Drive Issuu     V SCHNIEPER - ARCHITECT CV.pdf Víctor P. Schnieper Curriculum Vitae    PORTFOLIO    Google Drive Issuu     V SCHNIEPER - PORTFOLIO.pdf Víctor P. Schnieper Portfolio    </description>
+    </item>
+    
+    <item>
+      <title>INUNDACION INTERMITENTE</title>
+      <link>https://www.vschnieper.com/posts/project5/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/posts/project5/</guid>
+      <description>(Final Master&amp;rsquo;s Thesis with Honors)
+ Porto. Rain, cold. November 26th, 2019. An early morning dense fog takes time to dissipate due to the low temperature and high humidity of the environment. The water keeps falling from the sky. The ground is flooding. It gets muddy. It changes. Puddles have taken over the landscape.
+ The random landscape of wetlands that emerges due to the high probability of precipitation in Porto is at least one of the most interesting spatial situations that Parque da Cidade has.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.vschnieper.com/about-me/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/about-me/</guid>
+      <description>Hello! My name is Víctor de la Plaza Schnieper.
+I am a young architect, graphic designer and 3D artist living in Madrid. I love photography, artistic drawing and travelling. I consider myself a geek of development of new technologies and computers. I am a fast learner, a very curious and self-taught person who loves to gain experience every day.
+
+I am an elite Wushu (Kung-Fu) athlete and a member of the Spanish national team.</description>
+    </item>
+    
+    <item>
+      <title>THE SHELL</title>
+      <link>https://www.vschnieper.com/posts/project4/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/posts/project4/</guid>
+      <description>(Project in collaboration with Clara Calvo and Alfonso Rubio)
+The Auditorium in Parque Juan Carlos I in Madrid was closed in 2008 and has remained abandoned ever since. Eleven years later, the water is not flowing. The lights no longer dance. The music stopped playing long ago. There is no more performance. Everything has changed.
+With this project, the building is proposed to be rehabilitated by means of a new folded and retractable textile cover, like the one in the Plaza de Toros de Zaragoza.</description>
+    </item>
+    
+    <item>
+      <title>GODOY - X</title>
+      <link>https://www.vschnieper.com/posts/project3/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/posts/project3/</guid>
+      <description>The small city of Godoy Cruz belongs to the province of Mendoza (Argentina). It is characterized by its low altitude, in contrast with the great mountain range of the Andes and its enormous peak, the Aconcagua, next to which it is located.
+A residential project is proposed as an analogy to the mountain and river landscape, which is why this area stands out so much. A great cross is designed in which the houses at different heights will simulate the mountain range, and a linear fluvial park will join the lower public pedestrian areas simulating the rivers of Argentina.</description>
+    </item>
+    
+    <item>
+      <title>CREATING CONTRASTS</title>
+      <link>https://www.vschnieper.com/posts/project2/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/posts/project2/</guid>
+      <description>In contrast to the traditional architecture of Nagele, the orthogonality of its streets and buildings and the great grass plains of Holland, Creating Contrasts aims to break these rules completely.
+By creating slopes next to the village, which will be named &amp;ldquo;petals&amp;rdquo;, a series of vegetation covers will be formed under which a new residential project will appear.
+The compositional, constructive and structural design of these large coverings, as well as of the house itself, will be based on a hierarchical development in which the king will be the vertical structure.</description>
+    </item>
+    
+    <item>
+      <title>VERTICAL HOTSPOT</title>
+      <link>https://www.vschnieper.com/posts/project1/</link>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vschnieper.com/posts/project1/</guid>
+      <description>The objective of the project is the creation of a thermal bath building, or hotspot, in Reykjavik, Iceland. It will take into account both the problematic climate of this location, and the lack of light due to the short duration of the days, as well as the contrast in temperature between inside and outside.
+To this end, it was decided to operate in the shape of a tower, dividing the project in two parts: a great square base that will house the uses of reception, changing rooms and cafeteria, all wrapped in an opaque GRC skin; and a series of out-of-phase platforms that will contain the pools, these in turn, wrapped in a glass skin that will allow light to enter from any point.</description>
+    </item>
+    
+  </channel>
+</rss>

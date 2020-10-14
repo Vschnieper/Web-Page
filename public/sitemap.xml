@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.vschnieper.com/portfolio/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/project5/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/about-me/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/project4/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/project3/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/project2/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/posts/project1/</loc>
+    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vschnieper.com/tags/</loc>
+  </url>
+  
+</urlset>

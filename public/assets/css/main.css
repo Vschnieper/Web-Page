@@ -1661,9 +1661,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-
-
-.responsive1 {
-	width: 100%;
-	height: auto;
-}
