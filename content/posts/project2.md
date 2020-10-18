@@ -4,14 +4,17 @@ date: 2018-05-23
 background: "/images/bg.jpg"
 ---
 
-In contrast to the **traditional** architecture of Nagele, the **orthogonality** of its streets and buildings and the great grass **plains** of Holland, *Creating Contrasts* aims to **break** these rules completely.
+{{< rawhtml >}}
 
-By creating **slopes** next to the village, which will be named "petals", a series of **vegetation covers** will be formed under which a new **residential** project will appear. 
+<html>
+    <head>
+        <link rel="stylesheet" href="css/poststyle.css">
+    </head>
+    <body>
+        <p>In contrast to the <strong>traditional</strong> architecture of Nagele, the <strong>orthogonality</strong> of its streets and buildings and the great grass <strong>plains</strong> of Holland, <em>Creating Contrasts</em> aims to <strong>break</strong> these rules completely.</p>
+        <p>By creating <strong>slopes</strong> next to the village, which will be named &quot;petals&quot;, a series of <strong>vegetation covers</strong> will be formed under which a new <strong>residential</strong> project will appear.</p>
+        <p>The <strong>compositional</strong>, <strong>constructive</strong> and <strong>structural</strong> design of these large coverings, as well as of the house itself, will be based on a <strong>hierarchical</strong> development in which the king will be the <strong>vertical</strong> structure.</p>            
+    </body>
+</html>
 
-The **compositional**, **constructive** and **structural** design of these large coverings, as well as of the house itself, will be based on a **hierarchical** development in which the king will be the **vertical** structure.
-
----
-***Panels and images coming soon...***
-
-For additional information, please check **Portfolio**:
-[DOCUMENTS](/#documents)
+{{< /rawhtml >}}
