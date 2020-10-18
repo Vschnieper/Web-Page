@@ -12,7 +12,7 @@ img {
 }
 
 /* Hide the images by default */
-.mySlides {
+.mySlides, .aa {
   display: none;
 }
 
@@ -66,7 +66,7 @@ img {
 }
 
 /* The dots/bullets/indicators */
-.dot {
+.dot, .bb {
   cursor: pointer;
   height: 12px;
   width: 12px;
@@ -77,7 +77,7 @@ img {
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+.active, .dot:hover, .bb:hover {
   background-color: #ffffff;
 }
 

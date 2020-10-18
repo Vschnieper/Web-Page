@@ -47,7 +47,7 @@ background: "/images/bg.jpg"
             <span class="dot" onclick="currentSlide(2)"></span>
             <span class="dot" onclick="currentSlide(3)"></span>
         </div>
-        <script src="js/myscripts.js"></script>    
+        <script src="js/script1.js"></script>    
     </body>
 </html>
 

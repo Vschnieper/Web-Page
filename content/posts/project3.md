@@ -4,12 +4,21 @@ date: 2018-12-17
 background: "/images/bg.jpg"
 ---
 
-The small city of Godoy Cruz belongs to the province of Mendoza (Argentina). It is characterized by its **low altitude**, in **contrast** with the great **mountain range** of the Andes and its enormous peak, the Aconcagua, next to which it is located.
+{{< rawhtml >}}
 
-A **residential** project is proposed as an **analogy** to the mountain and river landscape, which is why this area stands out so much. A great **cross** is designed in which the **houses** at different heights will simulate the **mountain range**, and a **linear fluvial park** will join the lower public pedestrian areas simulating the **rivers** of Argentina.
+<html>
+    <head>
+        <link rel="stylesheet" href="css/poststyle.css">
+    </head>
+    <body>
+        <p>The small city of Godoy Cruz belongs to the province of Mendoza (Argentina). It is characterized by its <strong>low altitude</strong>, in <strong>contrast</strong> with the great <strong>mountain range</strong> of the Andes and its enormous peak, the Aconcagua, next to which it is located.</p>
+        <p>A <strong>residential</strong> project is proposed as an <strong>analogy</strong> to the mountain and river landscape, which is why this area stands out so much. A great <strong>cross</strong> is designed in which the <strong>houses</strong> at different heights will simulate the <strong>mountain range</strong>, and a <strong>linear fluvial park</strong> will join the lower public pedestrian areas simulating the <strong>rivers</strong> of Argentina.</p>
+        <hr>
+        <p><em><strong>Panels and images coming soon...</strong></em></p>
+        <p>For additional information, please check <strong>Portfolio</strong>:
+        <a href="/#documents">DOCUMENTS</a></p>
+    </body>
+</html>
 
----
-***Panels and images coming soon...***
+{{< /rawhtml >}}
 
-For additional information, please check **Portfolio**:
-[DOCUMENTS](/#documents)
